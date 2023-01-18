@@ -2,7 +2,7 @@
   "name": "shop",
   "version": "0.1.0",
   "private": false,
-  "homepage": "https://2hayrapetyan.github.io/yanki",
+  "homepage": "https://2hayrapetyan.github.io/yanki2",
   "dependencies": {
     "@emotion/react": "^11.10.5",
     "@emotion/styled": "^11.10.5",
