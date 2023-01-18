@@ -1,0 +1,84 @@
+.catalogp{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 100px;
+}
+.child{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    position: relative;
+    gap: 5px;
+}
+.heart{
+    position: absolute;
+    right: 0;
+    top: 0;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 2.6vw;
+    height: 2.6vw;
+background: #E0BEA2;
+border-radius: 0px 0px 0px 20px;
+}
+.heart svg{
+    width: 1.5vw;
+    height: 1.5vw;
+}
+.child img{
+    width: 100%;
+    height: 80%;
+    margin-bottom: 10px;
+}
+.child p{
+font-size: 1.11vw;
+font-weight: 300;
+}
+.child span{
+    font-size: 1.11vw;
+    font-weight: 700;
+}
+.sizes{
+    color: rgba(37, 37, 37, 0.5);
+}
+.catalog-item{
+   flex-direction: column;
+   gap: 1.388vw;
+    display: flex;
+}
+.catalog-item h2{
+    font-size: 1.11vw;
+    font-weight: 300;
+}
+.filterby p{
+    font-size: 1.3888vw;
+    margin-right: 7.5%;
+} 
+.filter{
+    display: flex;
+    flex-direction: column;
+    margin-top: 105px;
+    gap: 2vw;
+}
+.filterby{
+    display: flex;
+    align-items: center;
+    gap:2.36vw;
+    margin-bottom: 40px;
+}
+.filter svg{
+    width: 1.4vw;
+    height: 1.4vw;
+    color:  #E0BEA2;
+}
+.loader{
+    margin: auto auto;
+}
+.path{
+    display: flex;
+    gap:1.6vw;
+}
+
+

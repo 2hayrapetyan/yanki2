@@ -1,0 +1,50 @@
+.sec3{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap:20px;
+    text-align: center;
+}
+.h2{
+    margin: 100px 0 30px;
+}
+.email{
+    width: 52%;
+    text-align: center;
+    padding: 16px 0;    
+    border: 0.5px solid #252525;
+ 
+}
+.button{
+    border: none;
+    color: white;
+    background: #E0BEA2;
+}
+.spann{
+    width:53% ;
+    margin-bottom: 100px;
+    font-weight: 200;
+}
+
+@media only screen and (max-width: 750px) {
+    .sec3{
+        width: 90% !important;
+        gap: 15px;
+    }
+  
+.h2{
+    margin: 60px 0 15px;
+    font-size: 6.4vw !important;
+}
+.email{
+    width: 100%;
+   font-size: 3.733vw;
+    padding: 12px 0;    
+}
+.spann{
+    width:100% ;
+    margin-bottom: 60px;
+    font-size: 3.733vw;
+}
+    
+}

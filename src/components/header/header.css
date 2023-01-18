@@ -1,0 +1,95 @@
+.head{
+    position:fixed;
+    top: 0;
+    width: 100vw;
+}
+.header{
+    display: flex;
+    align-items: baseline;
+    padding: 24px 0;
+    z-index: 1000;
+    justify-content: space-between;
+    background:transparent;
+    transition: 0.7s;
+}
+.active{
+    color: #E0BEA2 !important;
+
+}
+.close-menu{
+    opacity: 0;
+    visibility: hidden;
+}
+
+.burger{
+    display: none;
+}
+.logo{
+    width: 8.5vw;
+}
+.logo2{
+    width: 10vw;
+}
+.color{
+    display: flex;
+    gap: 1.94vw;
+    font-size: 1.25vw;
+}
+.color a{
+    color: #252525;
+
+}
+.navbar{
+    display: flex;
+    gap: 28px;
+    font-size: 1.25vw;
+}
+.navbar a{
+    color: white;
+}
+
+.colored{
+    color: #252525;
+}
+.iconscolor a{
+    color: #E0BEA2;;
+}
+.iconsdef a{
+    color: white;
+}
+.icons ul{
+    display: flex;
+    gap: 30px;
+}
+.icons svg{
+width: 1.7vw;
+height: 1.7vw;
+}
+@media only screen and (max-width: 750px) {
+   .logo{
+  width: 15vw;
+  margin-left: 42px;
+   }
+   .logo2{
+    width: 18.5vw;
+    margin-left: 42px;
+     }
+   .icons svg{
+    width: 5.2vw;
+    height: 5.2vw;
+    }
+    .none{
+        display: none !important;
+    }
+    .icons ul{
+        gap: 20px;
+    }
+    .header{
+        width: 90% !important;
+        padding: 20px 0;
+    }
+    .burger{
+        display: block;
+        width: 6vw;
+    }
+}
