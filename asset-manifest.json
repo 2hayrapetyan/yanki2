@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/yanki/static/css/main.c683c0d8.css",
-    "main.js": "/yanki/static/js/main.cc970adb.js",
-    "static/js/787.23170c61.chunk.js": "/yanki/static/js/787.23170c61.chunk.js",
-    "static/media/1.png": "/yanki/static/media/1.45e035e2fb85cf2288e4.png",
-    "index.html": "/yanki/index.html",
-    "main.c683c0d8.css.map": "/yanki/static/css/main.c683c0d8.css.map",
-    "main.cc970adb.js.map": "/yanki/static/js/main.cc970adb.js.map",
-    "787.23170c61.chunk.js.map": "/yanki/static/js/787.23170c61.chunk.js.map"
+    "main.css": "/yanki2/static/css/main.c683c0d8.css",
+    "main.js": "/yanki2/static/js/main.b3a50122.js",
+    "static/js/787.23170c61.chunk.js": "/yanki2/static/js/787.23170c61.chunk.js",
+    "static/media/1.png": "/yanki2/static/media/1.45e035e2fb85cf2288e4.png",
+    "index.html": "/yanki2/index.html",
+    "main.c683c0d8.css.map": "/yanki2/static/css/main.c683c0d8.css.map",
+    "main.b3a50122.js.map": "/yanki2/static/js/main.b3a50122.js.map",
+    "787.23170c61.chunk.js.map": "/yanki2/static/js/787.23170c61.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c683c0d8.css",
-    "static/js/main.cc970adb.js"
+    "static/js/main.b3a50122.js"
   ]
 }
